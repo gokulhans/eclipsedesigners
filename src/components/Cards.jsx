@@ -275,7 +275,7 @@ function Cards() {
                             </div>
                         </div>
                     </a>
-                    <a href="https://wa.me/message/5XWWJKY6UH5EG1" class="my-3 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
+                    {/* <a href="https://wa.me/message/5XWWJKY6UH5EG1" class="my-3 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
                         <div class="rounded-md shadow-lg border text-gray-800">
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
@@ -286,7 +286,7 @@ function Cards() {
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
                         </div>
-                    </a>
+                    </a> */}
                     <a href="https://wa.me/message/5XWWJKY6UH5EG1" class="my-3 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
                         <div class="rounded-md shadow-lg border text-gray-800">
                             <div class="flex flex-col justify-between p-6 space-y-8">
