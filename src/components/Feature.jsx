@@ -7,7 +7,7 @@ function Feature() {
 
             <div id="feature" class="flex items-center justify-center m-5">
 
-                <div class="w-full max-w-sm p-4 bg-white rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
+                <div class="w-full max-w-2xl p-4 bg-white rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
                     <h5 class="mb-4 text-xl font-medium text-gray-500 dark:text-gray-400">Starting From</h5>
                     <div class="flex items-baseline text-gray-900 dark:text-white">
                         {/* <span class="text-4xl font-semibold">₹</span> */}
