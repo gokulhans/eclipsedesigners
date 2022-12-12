@@ -1,18 +1,25 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 
-function Project() {
+function Project({ link, title }) {
+    useEffect(() => {
+        window.scrollTo({
+            top: 0,
+            left: 0,
+            behavior: "smooth"
+          });
+    }, [])
     return (
         <>
-            <h2 class="mb-8 text-3xl md:text-4xl font-bold leading-none text-center text-green-600">Blogging App</h2>
+            <h2 class="mb-8 text-3xl md:text-4xl font-bold leading-none text-center text-green-600">{title}</h2>
 
             <h2 class="my-8 mt-12 ml-5 text-2xl md:text-3xl font-bold leading-none md:ml-16">Demo Video</h2>
 
             <div className='mt-3 flex items-center justify-center'>
-                <iframe className='w-screen h-60 md:w-2/4 md:h-96 ' src="https://www.youtube.com/embed/9qoH0Ur9mAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe className='w-screen h-60 md:w-2/4 md:h-96 ' src={link} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
             <div class="px-4 pb-5 mb-24 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-10 text-gray-800">
- 
+
                 <h2 class="py-6 pt-8 text-2xl md:text-3xl font-bold leading-none">Technologies Used</h2>
 
                 <ul class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
@@ -20,32 +27,38 @@ function Project() {
                         <span>React JS</span>
                     </li>
                     <li class="flex items-center space-x-2">
-                        <span>My SQL</span>
+                        <span>Firebase</span>
                     </li>
                     <li class="flex items-center space-x-2">
                         <span>Node Js</span>
                     </li>
+                    <li class="flex items-center space-x-2">
+                        <span>Mongo db</span>
+                    </li>
+                    <li class="flex items-center space-x-2">
+                        <span>Express Js</span>
+                    </li>
+                    <li class="flex items-center space-x-2">
+                        <span>Socket IO</span>
+                    </li>
                 </ul>
 
-                <h2 class="py-6 text-2xl md:text-3xl font-bold leading-none">Features </h2>
+                {/* <h2 class="py-6 text-2xl md:text-3xl font-bold leading-none">Features </h2>
 
                 <ul class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
                     <li class="flex items-center space-x-2">
-                        <span>Write Blog</span>
+                        <span></span>
                     </li>
                     <li class="flex items-center space-x-2">
                         <span>Authentication</span>
                     </li>
                     <li class="flex items-center space-x-2">
-                        <span>Crud Operation on Blog</span>
+                        <span>Crud Operation</span>
                     </li>
                     <li class="flex items-center space-x-2">
                         <span>Login/SignUp Functions</span>
                     </li>
-                    <li class="flex items-center space-x-2">
-                        <span>Professional Text Area</span>
-                    </li>
-                </ul>
+                </ul> */}
 
 
 
