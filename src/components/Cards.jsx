@@ -231,6 +231,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Library Managment Software </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -242,6 +244,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Weather App </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -252,6 +256,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Dating Website </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -262,6 +268,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Car Rental </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -272,6 +280,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Weather App </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -282,6 +292,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Movies Booking System </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -292,6 +304,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Electricity Billing System </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -302,6 +316,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Online Voting System </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -312,6 +328,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> School Managment System </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -322,6 +340,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Web Based Student Attendance System </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -332,6 +352,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Employee Timesheet Management System </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -342,6 +364,8 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> College bot project </h2>
+                                    <p class="text-gray-800">Custom Project </p>
+
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
                             </div>
@@ -352,8 +376,20 @@ function Cards() {
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
                                     <h2 class="text-xl font-bold tracking-wide mb-5"> Smart Health consulting system </h2>
+                                    <p class="text-gray-800">Custom Project </p>
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Book Project</button>
+                            </div>
+                        </div>
+                    </a>
+                    <a href="https://wa.me/message/5XWWJKY6UH5EG1" class="my-3 px-1 w-full md:w-1/2 lg:my-4 lg:px-4 lg:w-1/3">
+                        <div class="rounded-md shadow-lg border text-gray-800">
+                            <div class="flex flex-col justify-between p-6 space-y-8">
+                                <div class="space-y-2">
+                                    <h2 class="text-xl font-bold tracking-wide mb-5"> Have Any Unique Idea </h2>
+                                    <p class="text-gray-800">Connect with us. We will make it happen.. </p>
+                                </div>
+                                <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Make Your Own Project</button>
                             </div>
                         </div>
                     </a>
