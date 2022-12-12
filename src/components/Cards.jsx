@@ -11,14 +11,14 @@ function Cards() {
                         <div class="rounded-md shadow-lg border text-gray-800">
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
-                                    <h2 class="text-3xl font-bold tracking-wide mb-5"> Blog App </h2>
+                                    <h2 class="text-xl font-bold tracking-wide mb-5"> Blog App </h2>
 
                                     <p class="text-gray-800">React JS</p>
                                     <p class="text-gray-800">My SQL</p>
-                                    <p class="text-gray-800">Authentication</p>
-                                    <p class="text-gray-800">CRUD Operations</p>
-                                    <p class="text-gray-800">Malayalam Explanation Video</p>
-                                    <p class="text-gray-800">Project Demo Video</p>
+                                    {/* <p class="text-gray-800">Authentication</p> */}
+                                    {/* <p class="text-gray-800">CRUD Operations</p> */}
+                                    {/* <p class="text-gray-800">Malayalam Explanation Video</p> */}
+                                    {/* <p class="text-gray-800">Project Demo Video</p> */}
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Click here for More Details</button>
                             </div>
@@ -29,17 +29,18 @@ function Cards() {
                         <div class="rounded-md shadow-lg border text-gray-800">
                             <div class="flex flex-col justify-between p-6 space-y-8">
                                 <div class="space-y-2">
-                                    <h2 class="text-3xl font-bold tracking-wide mb-5"> Youtube Clone </h2>
+                                    <h2 class="text-xl font-bold tracking-wide mb-5"> Youtube Clone </h2>
 
                                     <p class="text-gray-800">React JS</p>
-                                    <p class="text-gray-800">Mongo Db</p>
+                                    <p class="text-gray-800">Mern Stack</p>
+                                    {/* <p class="text-gray-800">Mongo Db</p>
                                     <p class="text-gray-800">Express Js</p>
                                     <p class="text-gray-800">Node js</p>
                                     <p class="text-gray-800">Redux</p>
                                     <p class="text-gray-800">JWT Token, Cookies</p>
                                     <p class="text-gray-800">Upload Video</p>
                                     <p class="text-gray-800">Account Managment</p>
-                                    <p class="text-gray-800">Project Demo Video</p>
+                                    <p class="text-gray-800">Project Demo Video</p> */}
                                 </div>
                                 <button type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-900 font-medium rounded-lg text-sm px-5 py-2.5 inline-flex justify-center w-full text-center">Click here for More Details</button>
                             </div>
