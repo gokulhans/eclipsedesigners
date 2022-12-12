@@ -52,7 +52,7 @@ function Feature() {
                                 <span class="text-base font-normal leading-tight text-gray-500">Malayalam Explanation Video</span>
                                 </li> */}
                     </ul>
-                    <a href='https://wa.me/message/5XWWJKY6UH5EG1' class="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md bg-green-600 text-gray-50">Book Project Now</a>
+                    <a href='https://wa.me/message/5XWWJKY6UH5EG1' class="flex items-center justify-center w-full p-3 font-semibold tracking-wide rounded-md bg-green-600 text-gray-50">Book This Project Now</a>
                 </div>
             </div>
 
