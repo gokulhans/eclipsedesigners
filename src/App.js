@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div className='mt-16 pt-4'>
+      <div className='pt-16 dark:bg-gray-800'>
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/project/1" element={<Project title={"Blog App"} link={"https://www.youtube.com/embed/9qoH0Ur9mAU"} />} />
