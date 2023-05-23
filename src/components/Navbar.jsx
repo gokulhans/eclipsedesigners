@@ -5,7 +5,7 @@ function Navbar() {
         <nav class="bg-white px-2 sm:px-4 py-2 dark:bg-gray-800 fixed w-full z-20 top-0 left-0 shadow dark:border-gray-600">
             <div class="container flex flex-wrap items-center justify-between mx-auto">
                 <a href="/" class="flex items-center">
-                    <span class="pl-3 text-green-700 self-center text-xl font-bold whitespace-nowrap dark:text-white">Project Palace</span>
+                    <span class="pl-3 text-green-700 self-center text-xl font-bold whitespace-nowrap dark:text-white">Eclipse Designers</span>
                 </a>
                 <div class="flex md:order-2">
                     <a href='https://wa.me/message/5XWWJKY6UH5EG1' type="button" class="text-white bg-green-600 hover:bg-green-700 focus:ring-4 focus:outline-none focus:ring-green-300 font-medium text-sm px-3 py-2 rounded-full text-center mr-3 md:mr-0 dark:bg-green-500 dark:text-black dark:hover:bg-green-700 dark:focus:ring-green-800"> <i class="fa fa-whatsapp "></i> </a>

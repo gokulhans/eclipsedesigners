@@ -10,11 +10,10 @@ function Home() {
   return (
     <>
       <Hero />
-      <Feature />
-      <List />
-      <Cta />
+      {/* <Feature /> */}
+      {/* <List /> */}
+      {/* <Cta /> */}
       {/* <h2 class="py-6 text-3xl md:text-3xl font-bold leading-none ml-8 dark:text-white">Project Demo Preview</h2> */}
-
       <Cards />
       <Cta />
 
