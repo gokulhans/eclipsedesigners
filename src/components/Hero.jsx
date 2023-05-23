@@ -10,7 +10,7 @@ function Hero() {
                     <span className="block text-green-600 nodark:text-green-400"> Poster Design </span>
                 </h1>
                 <center>
-                    <h3 className="text-gray-500 leading-tight md:leading-tight text-md md:text-3xl my-5 font-bold">നിങ്ങളുടെ <span className="text-green-500 nodark:text-green-400"> Business </span> ന്റെ വളർച്ചയ്ക്ക് അനുയോജ്യമായ Posters, Logos, Websites  Design  ചെയ്യുന്നു.
+                    <h3 className="text-gray-500 leading-tight md:leading-tight text-md md:text-2xl my-8 font-bold">നിങ്ങളുടെ <span className="text-green-500 nodark:text-green-400"> Business </span> ന്റെ വളർച്ചയ്ക്ക് അനുയോജ്യമായ Posters, Logos, Websites  Design  ചെയ്യുന്നു.
                     </h3>
                 </center>
                 {/* <p className="px-8 my-5 text-lg">Starting From 1000 ₹</p> */}

@@ -13,8 +13,8 @@ function Card({ image, alt }) {
 
     return (
         <>
-            <div className="md:p-4">
-                <div className="bg-white p-2 shadow-lg rounded-xl">
+            <div className="md:p-3">
+                <div className="bg-white shadow-2xl rounded-xl">
                     <img
                         src={image}
                         className="rounded-xl cursor-pointer"
@@ -45,20 +45,14 @@ function Card({ image, alt }) {
 }
 
 function Cards() {
+    const cards = [];
+    for (let i = 0; i < 53; i++) {
+        const image = `posters/${i + 1}.jpg`;
+        cards.push(<Card image={image} key={i} />);
+    }
     return (
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:px-16 md:py-8" id="container">
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
-            <Card image="poster.jpg" alt="Burger Poster" />
+            {cards}
         </div>
     );
 }
