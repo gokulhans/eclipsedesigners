@@ -13,7 +13,7 @@ function Card({ image, alt }) {
 
     return (
         <>
-            <div className="md:p-4 p-2">
+            <div className="md:p-4">
                 <div className="bg-white p-2 shadow-lg rounded-xl">
                     <img
                         src={image}
