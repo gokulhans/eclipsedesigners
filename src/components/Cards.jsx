@@ -46,12 +46,12 @@ function Card({ image, alt }) {
 
 function Cards() {
     const cards = [];
-    for (let i = 0; i < 53; i++) {
+    for (let i = 0; i < 39; i++) {
         const image = `posters/${i + 1}.jpg`;
         cards.push(<Card image={image} key={i} />);
     }
     return (
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:px-16 md:py-8" id="container">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:px-16 m-5 md:py-8" id="container">
             {cards}
         </div>
     );
